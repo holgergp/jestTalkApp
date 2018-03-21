@@ -3,5 +3,5 @@
 
 Sample App for the usage of Jest with React.
 
-Used to be sample code for a Jest talks.
+Used to be sample code for a Jest talk.
 

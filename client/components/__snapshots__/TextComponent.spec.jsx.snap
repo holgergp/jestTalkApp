@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextComponent renders 1`] = `
+<div
+  className="Text"
+>
+  test
+</div>
+`;

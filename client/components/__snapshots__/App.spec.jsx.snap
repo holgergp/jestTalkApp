@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Hello World
+  </h1>
+  <dl>
+    <dt>
+      <div
+        className="Text"
+      >
+        COMPLICATED
+      </div>
+    </dt>
+    <dt>
+      <div
+        className="Text"
+      >
+        JSON
+      </div>
+    </dt>
+    <dt>
+      <div
+        className="Text"
+      >
+        RESPONSE
+      </div>
+    </dt>
+  </dl>
+</div>
+`;
+
+exports[`App renders with defined data 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Hello World
+  </h1>
+  <dl>
+    <dt>
+      <div
+        className="Text"
+      >
+        test
+      </div>
+    </dt>
+  </dl>
+</div>
+`;
+
+exports[`App renders with defined return function 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Hello World
+  </h1>
+  <dl>
+    <dt>
+      <div
+        className="Text"
+      >
+        mockImplementation
+      </div>
+    </dt>
+  </dl>
+</div>
+`;

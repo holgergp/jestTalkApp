@@ -26,5 +26,8 @@
     "jest-cli": "^22.4",
     "prettier": "^1.5.3",
     "react-test-renderer": "^15.6.1"
+  },
+  "jest": {
+    "collectCoverage": true 
   }
 }
